@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T02:09:09Z",
+  "generated_at": "2026-11-12T02:17:41Z",
   "policy": "Public HTML only. First presale must be manually verified; next 90 days.",
   "events": [],
   "candidates": [
@@ -8,7 +8,7 @@
       "title": "หน้าแรก",
       "url": "https://www.thaiticketmajor.com/index.html",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -16,7 +16,7 @@
       "title": "ทุกงานแสดง",
       "url": "https://www.thaiticketmajor.com/all-event/",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -24,7 +24,7 @@
       "title": "TTM LIVE NEW",
       "url": "https://www.thaiticketmajor.com/live/",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -32,7 +32,7 @@
       "title": "การแสดง",
       "url": "https://www.thaiticketmajor.com/performance/",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -40,7 +40,7 @@
       "title": "เอ็กซิบิชั่น",
       "url": "https://www.thaiticketmajor.com/exhibition/",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -48,7 +48,7 @@
       "title": "วาไรตี้",
       "url": "https://www.thaiticketmajor.com/variety/",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -56,7 +56,7 @@
       "title": "โปรโมชั่น",
       "url": "https://www.thaiticketmajor.com/privilege/",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -64,7 +64,7 @@
       "title": "บัตรสะสมคะแนน",
       "url": "https://www.thaiticketmajor.com/ttmcard/",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -72,7 +72,31 @@
       "title": "ตรวจสอบสถานะจัดส่ง",
       "url": "https://www.thaiticketmajor.com/delivery/tracking.php",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
+      "verification_status": "未核实首次预售时间"
+    },
+    {
+      "platform": "ThaiTicketMajor",
+      "title": "เขมจิราต้องรอด ตลอดกาล KHEMJIRA FOREVER PRE-SCREENING EP.3 เขมจิราต้องรอด ตลอดกาล KHEMJIRA FOREVER PRE-SCREENING EP.3",
+      "url": "https://www.thaiticketmajor.com/performance/khemjira-forever-pre-screening-ep3.html",
+      "source_page": "https://www.thaiticketmajor.com/concert/",
+      "discovered_at": "2026-11-12T02:17:41Z",
+      "verification_status": "未核实首次预售时间"
+    },
+    {
+      "platform": "ThaiTicketMajor",
+      "title": "Chang Music Connection presents BODYSLAMFEST รักครึ่งนึง อดทนครึ่งนึง Live in ราชมังคลากีฬาสถาน Chang Music Connection presents BODYSLAMFEST รักครึ่งนึง อดทนครึ",
+      "url": "https://www.thaiticketmajor.com/concert/bodyslamfest2027.html",
+      "source_page": "https://www.thaiticketmajor.com/concert/",
+      "discovered_at": "2026-11-12T02:17:41Z",
+      "verification_status": "未核实首次预售时间"
+    },
+    {
+      "platform": "ThaiTicketMajor",
+      "title": "RBSO 2026 : Sound of the Seasons RBSO 2026 : Sound of the Seasons",
+      "url": "https://www.thaiticketmajor.com/concert/rbso-2026-sound-of-the-seasons.html",
+      "source_page": "https://www.thaiticketmajor.com/concert/",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -80,31 +104,7 @@
       "title": "Gunshot The First Shot Gunshot The First Shot",
       "url": "https://www.thaiticketmajor.com/performance/gunshot-the-first-shot.html",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "ThaiTicketMajor",
-      "title": "MR.FANBOY FINAL EPISODE WELCOME BACK MR.FANBOY FINAL EPISODE WELCOME BACK",
-      "url": "https://www.thaiticketmajor.com/performance/mr-fanboy-final-episode-welcome-back.html",
-      "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "ThaiTicketMajor",
-      "title": "Third Person ถ้อยรัก...คำลวง Final Episode Third Person ถ้อยรัก...คำลวง Final Episode",
-      "url": "https://www.thaiticketmajor.com/performance/third-person-final-episode.html",
-      "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "ThaiTicketMajor",
-      "title": "THE GRIM LOVER FIRST PREMIERE THE GRIM LOVER FIRST PREMIERE",
-      "url": "https://www.thaiticketmajor.com/performance/the-grim-lover-first-premiere.html",
-      "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -112,7 +112,7 @@
       "title": "ตั๋วของฉัน",
       "url": "https://www.thaiticketmajor.com/user/myticket.php?urId=",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -120,7 +120,7 @@
       "title": "ประวัติการสั่งซื้อ",
       "url": "https://www.thaiticketmajor.com/user/history.php?urId=",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -128,7 +128,7 @@
       "title": "แก้ไขข้อมูลส่วนตัว",
       "url": "https://www.thaiticketmajor.com/user/editprofile.php?urId=",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -136,7 +136,7 @@
       "title": "เปลี่ยนรหัสผ่าน",
       "url": "https://www.thaiticketmajor.com/user/changepassword.php?urId=",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -144,7 +144,7 @@
       "title": "ออกจากระบบ",
       "url": "https://www.thaiticketmajor.com/user/logout.php",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -152,47 +152,47 @@
       "title": "ราชมังคลากีฬาสถาน",
       "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=10885",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "ThaiTicketMajor",
-      "title": "DREAMING TOMOHISA YAMASHITA TOUR 2026 LIVE in BANGKOK",
-      "url": "https://www.thaiticketmajor.com/concert/dreaming-tomohisa-yamashita-tour-2026-live-in-bangkok.html?utm_source=ttm-index&utm_medium=search-recommended&utm_campaign=dreaming-tomohisa-yamashita-tour-2026-live-in-bangkok",
+      "title": "THE RISING SUN INNONGSA 1st FAN MEETING IN BANGKOK",
+      "url": "https://www.thaiticketmajor.com/performance/the-rising-sun-innongsa-1st-fan-meeting-in-bangkok.html?utm_source=ttm-index&utm_medium=search-recommended&utm_campaign=the-rising-sun-innongsa-1st-fan-meeting-in-bangkok",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "ThaiTicketMajor",
-      "title": "ยูเนี่ยน ฮอลล์, ศูนย์การค้ายูเนี่ยน มอลล์",
-      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=12269",
+      "title": "One Bangkok Forum",
+      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=12509",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "ThaiTicketMajor",
-      "title": "การแสดงโขนมูลนิธิส่งเสริมศิลปาชีพฯ ตอน สีดา",
-      "url": "https://www.thaiticketmajor.com/performance/gaan-sa-daeng-khon-dton-sida.html?utm_source=ttm-index&utm_medium=search-recommended&utm_campaign=gaan-sa-daeng-khon-dton-sida",
+      "title": "อิมแพ็ค อารีน่า เมืองทองธานี",
+      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=1",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "ThaiTicketMajor",
-      "title": "ศูนย์วัฒนธรรมแห่งประเทศไทย หอประชุมใหญ่",
-      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=6",
+      "title": "JOJI : SOLARIS",
+      "url": "https://www.thaiticketmajor.com/concert/joji-solaris-tour-2026.html?utm_source=ttm-index&utm_medium=search-recommended&utm_campaign=joji-solaris-tour-2026",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "ThaiTicketMajor",
-      "title": "ยูโอบี ไลฟ์, เอ็มสเฟียร์",
-      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=12433",
+      "title": "อิมแพ็ค เอ็กซิบิชั่น ฮอลล์ 5, เมืองทองธานี",
+      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=12221",
       "source_page": "https://www.thaiticketmajor.com/concert/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -200,31 +200,23 @@
       "title": "คอนเสิร์ต",
       "url": "https://www.thaiticketmajor.com/concert/",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "ThaiTicketMajor",
-      "title": "THE RISING SUN INNONGSA 1st FAN MEETING IN BANGKOK",
-      "url": "https://www.thaiticketmajor.com/performance/the-rising-sun-innongsa-1st-fan-meeting-in-bangkok.html?utm_source=ttm-index&utm_medium=search-recommended&utm_campaign=the-rising-sun-innongsa-1st-fan-meeting-in-bangkok",
+      "title": "wave to earth - the pieces tour",
+      "url": "https://www.thaiticketmajor.com/concert/wave-to-earth-the-pieces-tour.html?utm_source=ttm-index&utm_medium=search-recommended&utm_campaign=wave-to-earth-the-pieces-tour",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "ThaiTicketMajor",
-      "title": "One Bangkok Forum",
-      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=12509",
+      "title": "ยูโอบี ไลฟ์, เอ็มสเฟียร์",
+      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=12433",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "ThaiTicketMajor",
-      "title": "อิมแพ็ค อารีน่า เมืองทองธานี",
-      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=1",
-      "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -232,7 +224,15 @@
       "title": "ชื่อการแสดง",
       "url": "https://www.thaiticketmajor.com/concert/name/",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
+      "verification_status": "未核实首次预售时间"
+    },
+    {
+      "platform": "ThaiTicketMajor",
+      "title": "ศูนย์วัฒนธรรมแห่งประเทศไทย หอประชุมใหญ่",
+      "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=6",
+      "source_page": "https://www.thaiticketmajor.com/concert/latest/",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -240,7 +240,7 @@
       "title": "Bangkok Music City 2027",
       "url": "https://www.thaiticketmajor.com/concert/bangkok-music-city-2027.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -248,7 +248,7 @@
       "title": "Charoenkrung, Bangkok",
       "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=12489",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -256,7 +256,7 @@
       "title": "BJORN AGAIN ABBA FOREVER HAPPY CELEBRATION 2027",
       "url": "https://www.thaiticketmajor.com/concert/bjorn-again-abba-forever-happy-celebration-2027.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -264,7 +264,7 @@
       "title": "พารากอน ฮอลล์",
       "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=147",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -272,7 +272,7 @@
       "title": "ยอดเพชร 11 กะรัต พลัส",
       "url": "https://www.thaiticketmajor.com/concert/yodpetch-11-karat-plus.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -280,7 +280,7 @@
       "title": "เอ็ม เธียเตอร์ (ถ.เพชรบุรีตัดใหม่)",
       "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=279",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -288,7 +288,7 @@
       "title": "TUH presents BOYdKO CHRISTMAS CONCERT",
       "url": "https://www.thaiticketmajor.com/concert/charity-boydkochristmas.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -296,7 +296,7 @@
       "title": "Nine 2026 ''9° Moment'' Tour Concert Bangkok Special",
       "url": "https://www.thaiticketmajor.com/concert/nine-2026-9-moment-tour-concert-bangkok-special.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -304,7 +304,7 @@
       "title": "SiamPic Hall ชั้น 7, สยามสแควร์วัน",
       "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=11993",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -312,7 +312,7 @@
       "title": "Song Dongye \"Take Another Moment\" World Tour 2026 Asia Final Stop in Bangkok",
       "url": "https://www.thaiticketmajor.com/concert/song-dongye-take-another-moment-world-tour-2026-asia-final-stop-in-bangkok.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -320,7 +320,7 @@
       "title": "เฉลียง นั่งเล่น นั่งเล่า",
       "url": "https://www.thaiticketmajor.com/concert/chalieng-nang-len-nang-lao.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -328,7 +328,7 @@
       "title": "SPHERE HALL, 5M Floor EMSPHERE",
       "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=12451",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -336,7 +336,7 @@
       "title": "RBSO 2026 : The Maisky Trio Debut in Thailand",
       "url": "https://www.thaiticketmajor.com/concert/rbso-2026-the-maisky-trio-debut-in-thailand.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -344,7 +344,7 @@
       "title": "หอประชุม จุฬาลงกรณ์มหาวิทยาลัย",
       "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=10879",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -352,7 +352,7 @@
       "title": "matsuri'27: Japanese Music Experience BANGKOK",
       "url": "https://www.thaiticketmajor.com/concert/matsuri-27-japanese-music-experience-bangkok.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -360,7 +360,7 @@
       "title": "Thailand Philharmonic Orchestra 2026 - 2027",
       "url": "https://www.thaiticketmajor.com/concert/thailand-philharmonic-orchestra-2026-2027.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -368,7 +368,7 @@
       "title": "หอประชุมมหิดลสิทธาคาร มหาวิทยาลัยมหิดล ศาลายา",
       "url": "https://www.thaiticketmajor.com/_venue.php?venue_id=136",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -376,7 +376,7 @@
       "title": "คอนเสิร์ต ''แสงทิพย์แห่งรักใต้ร่มพระบารมี''",
       "url": "https://www.thaiticketmajor.com/concert/the-divine-light-of-love-under-the-royal-patronage.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -384,7 +384,7 @@
       "title": "JASP.ER TEMPTATION CONCERT",
       "url": "https://www.thaiticketmajor.com/concert/jasper-temptation-concert.html",
       "source_page": "https://www.thaiticketmajor.com/concert/latest/",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -392,7 +392,7 @@
       "title": "최근 본 최근 본 상품",
       "url": "https://nol.yanolja.com/recent-product/list?target=HOME",
       "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -400,7 +400,7 @@
       "title": "전시/행사",
       "url": "https://nol.yanolja.com/ticket/display/ranking/exhibition",
       "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -408,7 +408,7 @@
       "title": "클래식/무용",
       "url": "https://nol.yanolja.com/ticket/display/ranking/classic",
       "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
@@ -416,279 +416,87 @@
       "title": "아동/가족",
       "url": "https://nol.yanolja.com/ticket/display/ranking/family",
       "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "Interpark / NOL",
-      "title": "1위, 신규 1 NEW 못난이 삼형제 - 함양 장소 함양군문화예술회관 대공연장 공연기간 26.11.25 단독판매 예매율 13.2퍼센트 예매율 13.2%",
-      "url": "https://nol.yanolja.com/ticket/products/26016147",
-      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Interpark / NOL",
-      "title": "2위 2 터치드(TOUCHED) 콘서트 ＇HIGHLIGHT Ⅴ＇ 장소 고려대학교 화정체육관 공연기간 27.01.23 ~ 27.01.24 예매율 7.7퍼센트 예매율 7.7%",
+      "title": "1위 1 터치드(TOUCHED) 콘서트 ＇HIGHLIGHT Ⅴ＇ 장소 고려대학교 화정체육관 공연기간 27.01.23 ~ 27.01.24 예매율 9.8퍼센트 예매율 9.8%",
       "url": "https://nol.yanolja.com/ticket/products/26016043",
       "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "Interpark / NOL",
-      "title": "3위 3 NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON 장소 INSPIRE ARENA 공연기간 26.11.27 ~ 26.11.29 단독판매 예매율 4.3퍼센트 예매율 4.3%",
-      "url": "https://nol.yanolja.com/ticket/products/26013946",
-      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Interpark / NOL",
-      "title": "4위 4 2026-27 로이킴 LIVE TOUR ［R:O:Y］ in SEOUL 장소 KSPO DOME 공연기간 26.11.20 ~ 26.11.22 단독판매 예매율 4.3퍼센트 예매율 4.3%",
-      "url": "https://nol.yanolja.com/ticket/products/26013078",
-      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Interpark / NOL",
-      "title": "5위 5 브루노 마스 내한공연 장소 고양종합운동장 주경기장 공연기간 27.05.21 ~ 27.05.30 단독판매 예매율 4.0퍼센트 예매율 4.0%",
-      "url": "https://nol.yanolja.com/ticket/products/26012591",
-      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Interpark / NOL",
-      "title": "6위 6 Xdinary Heroes Concert 〈IMPULSE〉 장소 INSPIRE ARENA 공연기간 26.11.13 ~ 26.11.15 단독판매 예매율 3.3퍼센트 예매율 3.3%",
-      "url": "https://nol.yanolja.com/ticket/products/26014103",
-      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Interpark / NOL",
-      "title": "7위 7 TOMORROW X TOGETHER WORLD TOUR 〈STEAL THE WIND〉 IN SEOUL 장소 KSPO DOME 공연기간 26.11.13 ~ 26.11.15 단독판매 예매율 3.1퍼센트 예매율 3.1%",
+      "title": "2위 2 TOMORROW X TOGETHER WORLD TOUR 〈STEAL THE WIND〉 IN SEOUL 장소 KSPO DOME 공연기간 26.11.13 ~ 26.11.15 단독판매 예매율 4.6퍼센트 예매율 4.6%",
       "url": "https://nol.yanolja.com/ticket/products/26013161",
       "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "Interpark / NOL",
-      "title": "8위 8 YUURI LIVE 2026 IN SEOUL 장소 인스파이어 아레나 공연기간 26.12.05 ~ 26.12.06 단독판매 예매율 1.7퍼센트 예매율 1.7%",
-      "url": "https://nol.yanolja.com/ticket/products/26010352",
+      "title": "3위 3 2026-27 로이킴 LIVE TOUR ［R:O:Y］ in SEOUL 장소 KSPO DOME 공연기간 26.11.20 ~ 26.11.22 단독판매 예매율 3.9퍼센트 예매율 3.9%",
+      "url": "https://nol.yanolja.com/ticket/products/26013078",
       "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "Interpark / NOL",
-      "title": "9위 9 2026-27 엠씨더맥스 이수 콘서트 ‘겨울나기’ - 서울 장소 코엑스 D홀 (COEX HALL D) 공연기간 26.12.31 ~ 27.01.01 단독판매 예매율 1.5퍼센트 예매율 1.5%",
-      "url": "https://nol.yanolja.com/ticket/products/26015028",
+      "title": "4위 4 NMIXX 1ST WORLD TOUR 〈EPISODE 1: ZERO FRONTIER〉 FINALE IN INCHEON 장소 INSPIRE ARENA 공연기간 26.11.27 ~ 26.11.29 단독판매 예매율 3.8퍼센트 예매율 3.8%",
+      "url": "https://nol.yanolja.com/ticket/products/26013946",
       "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
       "platform": "Interpark / NOL",
-      "title": "10위 10 2026 DAVICHI CONCERT 〈IN OUR SCENES〉 장소 KSPO DOME 공연기간 26.12.12 ~ 26.12.13 단독판매 예매율 1.4퍼센트 예매율 1.4%",
-      "url": "https://nol.yanolja.com/ticket/products/26014056",
+      "title": "5위 5 2026 성시경 연말 콘서트 〈성시경〉 장소 KSPO DOME 공연기간 26.12.31 ~ 27.01.03 단독판매 예매율 3.7퍼센트 예매율 3.7%",
+      "url": "https://nol.yanolja.com/ticket/products/26015783",
       "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
-      "platform": "Melon Ticket",
-      "title": "하단 정보",
-      "url": "https://ticket.melon.com/main/index.htm#footer",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "platform": "Interpark / NOL",
+      "title": "6위 6 Xdinary Heroes Concert 〈IMPULSE〉 장소 INSPIRE ARENA 공연기간 26.11.13 ~ 26.11.15 단독판매 예매율 3.7퍼센트 예매율 3.7%",
+      "url": "https://nol.yanolja.com/ticket/products/26014103",
+      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
-      "platform": "Melon Ticket",
-      "title": "뮤지컬/연극",
-      "url": "https://ticket.melon.com/concert/index.htm?genreType=GENRE_ART",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "platform": "Interpark / NOL",
+      "title": "7위 7 브루노 마스 내한공연 장소 고양종합운동장 주경기장 공연기간 27.05.21 ~ 27.05.30 단독판매 예매율 3.6퍼센트 예매율 3.6%",
+      "url": "https://nol.yanolja.com/ticket/products/26012591",
+      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
-      "platform": "Melon Ticket",
-      "title": "팬클럽/팬미팅",
-      "url": "https://ticket.melon.com/concert/index.htm?genreType=GENRE_FAN",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "platform": "Interpark / NOL",
+      "title": "8위 8 썸띵 뉴 뮤직 페스티벌 2026 장소 수원컨벤션센터 공연기간 26.12.26 ~ 26.12.27 예매율 1.7퍼센트 예매율 1.7%",
+      "url": "https://nol.yanolja.com/ticket/products/26015181",
+      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
-      "platform": "Melon Ticket",
-      "title": "전시/행사",
-      "url": "https://ticket.melon.com/concert/index.htm?genreType=GENRE_EXH",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "platform": "Interpark / NOL",
+      "title": "9위, 신규 9 NEW 2026 SUNWOO FANMEETING 〈UNCHAINED〉 장소 명화라이브홀 공연기간 26.11.21 ~ 26.11.22 단독판매 예매율 1.7퍼센트 예매율 1.7%",
+      "url": "https://nol.yanolja.com/ticket/products/26015133",
+      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     },
     {
-      "platform": "Melon Ticket",
-      "title": "테마/지역",
-      "url": "https://ticket.melon.com/region/index.htm",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "티켓오픈소식",
-      "url": "https://ticket.melon.com/csoon/index.htm",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "전체이벤트",
-      "url": "https://ticket.melon.com/event/index.htm?mid=1",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "당첨자발표",
-      "url": "https://ticket.melon.com/event/announced.htm?mid=3",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "참여이벤트",
-      "url": "https://ticket.melon.com/event/my.htm?mid=4",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "마이티켓홈",
-      "url": "https://ticket.melon.com/myticket/index.htm",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "예매확인/취소",
-      "url": "https://ticket.melon.com/myticket/rsrvList.htm",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "공연예매권",
-      "url": "https://ticket.melon.com/myticket/advtkList.htm",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "NCT WISH 2nd CONCERT TOUR ‘INTO THE WISH : Face Our WISH’ IN SEOUL NCT WISH 2nd CONCERT TOUR ‘INTO THE WISH : Face Our WISH’ IN SEOUL 2027.01.15 - 2027.01.16",
-      "url": "https://ticket.melon.com/performance/index.htm?prodId=214071",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "아름다운 싱어송라이터 시리즈 2026 백현진, 윤지영, 허회경 등! 아름다운 싱어송라이터 시리즈 2026 2026.12.23 - 2026.12.30",
-      "url": "https://ticket.melon.com/performance/bridge.htm?brgId=100541",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "뮤지컬 〈레베카〉 예매자 전원 당첨 이벤트 확인 뮤지컬 < 레베카> 2026.11.24 - 2027.03.14",
-      "url": "https://ticket.melon.com/performance/bridge.htm?brgId=100532",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "뮤지컬 〈엘리자벳〉 죽음마저 사랑에 빠지게 한 아름다운 황후 뮤지컬 〈엘리자벳〉 2026.08.16 - 2026.11.15",
-      "url": "https://ticket.melon.com/performance/bridge.htm?brgId=100512",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "뮤지컬 〈두 도시 이야기〉 최대 20% 타임세일! 뮤지컬 〈두 도시 이야기〉 2026.11.11 - 2027.02.08",
-      "url": "https://ticket.melon.com/performance/index.htm?prodId=213865",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "2026 hrtz.wav 1st CONNECT!ON 〈TUNE IN〉 2026 hrtz.wav 1st CONNECT!ON 〈TUNE IN〉 2026.11.28 - 2026.11.28",
-      "url": "https://ticket.melon.com/performance/index.htm?prodId=214161",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "2026 히어로 락 페스티벌 락으로 제대로 놀자 2026 히어로 락 페스티벌 - 인천 (일반티켓) 2026.12.18 - 2026.12.20",
-      "url": "https://ticket.melon.com/performance/index.htm?prodId=214275",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "SJF at the Theater 2026 킹오컨, 다이애나 크롤, 크리스토퍼, 백예린x윤석철 SJF at the Theater 2026 2026.11.17 - 2026.11.22",
-      "url": "https://ticket.melon.com/performance/bridge.htm?brgId=100518",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "그라운드시소 전시 모음 브래드 월스전, 표기식 사진전, 성률 기획전, 티보 에렘 그라운드시소 전시 2026.04.30 - 2027.04.11",
-      "url": "https://ticket.melon.com/performance/bridge.htm?brgId=100525",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "[부산]진격의 거인展 FINAL 심장을 바쳐라 [2027] [부산] [상시관람] 진격의 거인展 FINAL 2026.11.16 - 2027.04.04",
-      "url": "https://ticket.melon.com/performance/bridge.htm?brgId=100540",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "이런 공연 어때? 나만 알고 싶은 공연 이주의 추천공연 2018-05-03 - 2099-12-31",
-      "url": "https://ticket.melon.com/plan/index.htm?planId=100008",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
-      "verification_status": "未核实首次预售时间"
-    },
-    {
-      "platform": "Melon Ticket",
-      "title": "2026 청년문화예술패스 06~07년생 덕질지원금 2026 청년문화예술패스 2026-08-10 - 2026-12-31",
-      "url": "https://ticket.melon.com/plan/index.htm?planId=100101",
-      "source_page": "https://ticket.melon.com/main/index.htm",
-      "discovered_at": "2026-11-11T02:09:09Z",
+      "platform": "Interpark / NOL",
+      "title": "10위 10 마룬5 내한공연 장소 킨텍스 제1전시장 4,5홀 공연기간 27.01.27 단독판매 예매율 1.7퍼센트 예매율 1.7%",
+      "url": "https://nol.yanolja.com/ticket/products/26011315",
+      "source_page": "https://nol.yanolja.com/ticket/display/ranking/concert",
+      "discovered_at": "2026-11-12T02:17:41Z",
       "verification_status": "未核实首次预售时间"
     }
   ],
@@ -699,7 +507,7 @@
     "HK Ticketing": "网页读取成功 1/1；候选必须核实开票时间",
     "Cityline": "网页读取成功 2/2；候选必须核实开票时间",
     "Interpark / NOL": "网页读取成功 1/1；候选必须核实开票时间",
-    "Melon Ticket": "网页读取成功 1/1；候选必须核实开票时间"
+    "Melon Ticket": "网页抓取失败（HTTPError: HTTP Error 423: Locked）；不能断言暂无演出"
   },
   "rejected_verified": 0,
   "note": "候选列表可能包含已售票、非演唱会或重复项目。正式榜单仅显示7天内人工复核且首次开票时间尚未到来的记录。"
